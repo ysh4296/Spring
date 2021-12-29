@@ -7,3 +7,9 @@
      
  + Rest API 란?
    + Rest의 원리를 따르는 API
+
+#Spring Rest API
+
+- 스프링 프레임워크를 이용한 간단한 Rest Api server 예제
+
+- 해당 예제는 /api/test에 {"result":"ok"} 라는 응답을 제공한다. 
